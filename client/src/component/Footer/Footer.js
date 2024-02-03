@@ -11,7 +11,7 @@ const Footer = () => (
           View this project on{" "}
           <a
             className="profile"
-            href=""
+            href="https://github.com/inder1307/Blockchain-based-voting-system"
             target="_blank"
             rel="noopener noreferrer"
           >
